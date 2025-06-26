@@ -9,86 +9,41 @@ I have a strong foundation in frontend development principles and a keen eye for
 Here's a list of the technologies and tools I work with:
 
 Languages:
-
-HTML5
-
-CSS3
-
-JavaScript (ES6+)
-
-Frameworks & Libraries:
-
-Angular 
-
-Tailwind CSS
-
-Bootstrap
+HTML5 CSS3 JavaScript (ES6+) TypeScript Frameworks & Libraries: Angular Tailwind CSS Bootstrap 
 
 Styling:
-
-Responsive Design
-
-Sass/SCSS (Basic)
-
-Tools & Version Control:
-
-Git & GitHub
-
-VS Code
-
-npm / yarn
+Responsive Design Sass/SCSS (Basic) Tools & Version Control: Git & GitHub VS Code npm / yarn
 
 Currently Learning/Exploring:
-
-TypeScript
-
 Unit Testing (Jest/React Testing Library)
 
 💻 My Projects
 Here are some of the projects I've been working on. Feel free to explore them!
 
-(Replace the placeholders below with your actual project details)
-
 1. Trendy heart Cookies
 Description: A brief description of the project and its core functionality.
-
 Technologies Used: e.g., HTML, Bootstrap CSS, Js.
-
 Live Demo: Link to Live Demo (if available)
-
 GitHub Repository: Link to Repository
 
 2. E-commerce
 Description: Another brief description of your project.
-
 Technologies Used: e.g., HTML, CSS, JavaScript, Angular.
-
 Live Demo: Link to Live Demo (if available)
-
 GitHub Repository: Link to Repository
 
 3. Sohaip Muhammed Protoflio
 Description: A third project showcasing different skills or concepts.
-
 Technologies Used: e.g., HTML, Bootstrap CSS, Js.
-
 Live Demo: Link to Live Demo (if available)
-
 GitHub Repository: Link to Repository
-
 (Add more project sections as needed!)
 
 🌱 What I'm Learning & My Goals
-
 My goal is to become a proficient and versatile frontend developer capable of building complex, high-performance, and accessible web applications.
 
 📬 Connect with Me
 I'm always open to new opportunities, collaborations, or just a friendly chat! Feel free to reach out.
-
-LinkedIn: https://www.linkedin.com/in/sohaip-muhammed-6ab00a235
-
-Portfolio/Personal Website: Your Website Link (if you have one)
-
-Email: sohaip.muhammed@gmail.com
+LinkedIn: https://www.linkedin.com/in/sohaip-muhammed-6ab00a235 / Portfolio/Personal Website: Your Website Link (if you have one) / Email: sohaip.muhammed@gmail.com
 
 Thanks for visiting my profile! Let's build something amazing together.
