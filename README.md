@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Sohaip Muhammed I'm a junior front end developer 
 <!--
 **SohaipMuhammed/SohaipMuhammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
