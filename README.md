@@ -8,14 +8,13 @@ I have a strong foundation in frontend development principles and a keen eye for
 🛠️ Skills & Technologies
 Here's a list of the technologies and tools I work with:
 
-Languages:
-HTML5 CSS3 JavaScript (ES6+) TypeScript Frameworks & Libraries: Angular Tailwind CSS Bootstrap 
+Languages: 𝗛𝗧𝗠𝗟𝟱 𝗖𝗦𝗦𝟯 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 (𝗘𝗦𝟲+) 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 & 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀: 𝗔𝗻𝗴𝘂𝗹𝗮𝗿 𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱 𝗖𝗦𝗦 𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽
 
 Styling:
-Responsive Design Sass/SCSS (Basic) Tools & Version Control: Git & GitHub VS Code npm / yarn
+𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝘃𝗲 𝗗𝗲𝘀𝗶𝗴𝗻 𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦 (𝗕𝗮𝘀𝗶𝗰) 𝗧𝗼𝗼𝗹𝘀 & 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝗖𝗼𝗻𝘁𝗿𝗼𝗹: 𝗚𝗶𝘁 & 𝗚𝗶𝘁𝗛𝘂𝗯 𝗩𝗦 𝗖𝗼𝗱𝗲 𝗻𝗽𝗺 / 𝘆𝗮𝗿𝗻
 
 Currently Learning/Exploring:
-Unit Testing (Jest/React Testing Library)
+𝗨𝗻𝗶𝘁 𝗧𝗲𝘀𝘁𝗶𝗻𝗴 (𝗝𝗲𝘀𝘁/𝗥𝗲𝗮𝗰𝘁 𝗧𝗲𝘀𝘁𝗶𝗻𝗴 𝗟𝗶𝗯𝗿𝗮𝗿𝘆)
 
 💻 My Projects
 Here are some of the projects I've been working on. Feel free to explore them!
