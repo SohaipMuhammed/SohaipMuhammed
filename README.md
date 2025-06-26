@@ -11,6 +11,7 @@ I have a strong foundation in frontend development principles and a keen eye for
 Here's a list of the technologies and tools I work with:
 
 Languages: 𝗛𝗧𝗠𝗟𝟱 𝗖𝗦𝗦𝟯 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 (𝗘𝗦𝟲+) 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁 
+
 Frameworks & Libraries: 𝗔𝗻𝗴𝘂𝗹𝗮𝗿 𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱 𝗖𝗦𝗦 𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽
 
 Styling:
