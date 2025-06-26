@@ -1,4 +1,4 @@
-👋 Hi there, I'm Sohaip Muhammed!
+ Hi there, I'm Sohaip Muhammed!👋
 🚀 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | Passionate Learner | Crafting Engaging Web Experiences
 
 Welcome to my GitHub profile! I'm a budding frontend developer enthusiastic about building beautiful, responsive, and user-friendly web applications.
